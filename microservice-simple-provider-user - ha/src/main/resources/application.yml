@@ -1,0 +1,4 @@
+
+spring:
+  profiles:
+    active: dev  # 多环境配置 加载application-dev。yml配置文件
